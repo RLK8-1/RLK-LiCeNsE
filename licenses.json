@@ -1,0 +1,20 @@
+{
+ "format": 1,
+ "issuer": "RLK Performance",
+ "licenses": [
+  {
+   "iracing_id": 99440,
+   "name": "RiK",
+   "products": [
+    "rlk-telemetry",
+    "rlkdash"
+   ],
+   "edition": "pro",
+   "expires": null,
+   "issued": "2026-11-13"
+  }
+ ],
+ "revoked": [],
+ "updated": "2026-11-13T14:11:35Z",
+ "signature": "NX4Th1LJdsq/C0+OlQu93DgN7XEVb98XvItsKjVc+9poRJ8cdNAN83oFjE/IEqtomU6T96AJV8ln4G0Iyj4/CQ=="
+}
