@@ -4,7 +4,6 @@
  "licenses": [
   {
    "iracing_id": 99440,
-   "name": "RiK",
    "products": [
     "rlk-telemetry",
     "rlkdash"
@@ -26,6 +25,6 @@
   }
  ],
  "pc_revoked": [],
- "updated": "2026-11-20T13:21:37Z",
- "signature": "QoDX+2+fVw4Ix3hvCrMwH4uAfTrED2xCYhW+qBtfOGnUUDiAOhwBjJ2VQtswPhPpzAQKY3S3qR9YGDTB60glAQ=="
+ "updated": "2026-11-20T13:45:01Z",
+ "signature": "Syebu0Ht95fkT2Z0mWg5rvKcAoWOzvS5NNXitnrgm/aE0ug0iJRXI2hkZrssnKcsAmnZneOk9SvdKpJACxyaAg=="
 }
