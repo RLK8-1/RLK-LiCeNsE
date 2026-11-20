@@ -1,20 +1,19 @@
 {
  "format": 1,
  "issuer": "RLK Performance",
- "licenses": [
+ "licenses": [],
+ "revoked": [],
+ "pc_licenses": [
   {
-   "iracing_id": 99440,
-   "name": "RiK",
+   "pc": "D8B9730E330EF51A",
    "products": [
-    "rlk-telemetry",
-    "rlkdash"
+    "rlk-doctor"
    ],
-   "edition": "pro",
    "expires": null,
-   "issued": "2026-11-13"
+   "issued": "2026-11-20"
   }
  ],
- "revoked": [],
- "updated": "2026-11-13T14:11:35Z",
- "signature": "NX4Th1LJdsq/C0+OlQu93DgN7XEVb98XvItsKjVc+9poRJ8cdNAN83oFjE/IEqtomU6T96AJV8ln4G0Iyj4/CQ=="
+ "pc_revoked": [],
+ "updated": "2026-11-20T13:08:09Z",
+ "signature": "IcKw48GiPLW3BIYaNL28CyULsitr3YzHftC/jkZzCko/yvXQG7ueX11CvMKTtC64XOv4Ohrk65PhuZJqj4GABg=="
 }
